@@ -34,7 +34,7 @@
 ### Задание 2-3
 
 
-![Задание 2-3]([ссылка на скриншот](https://github.com/Toazter426/zabbix-hw-2/blob/main/img/task3.PNG))
+![Задание 2-3](https://github.com/Toazter426/zabbix-hw-2/blob/main/img/task3.PNG)
 
 
 ### Задание 4
